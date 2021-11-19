@@ -3,13 +3,14 @@
 Durée: 5 à 7 minutes
 
 ### Présentation
-Parlez du projet multimédia sélectionné. 
+Rocket league
 
 ### Carte heuristique
 Joindre la carte heuristique du projet. 
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+Programmation
+Animation
 
 ### Analyse critique
 Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
