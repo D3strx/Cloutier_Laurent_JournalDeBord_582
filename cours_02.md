@@ -2,19 +2,22 @@
 ## Présentation des liens
 
 ### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
+https://oasis.im/
+immersion super divertissante quon est aller voir en classe qui va vraiment nous immerser dans leur histoire
 
 ### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+https://www.ubisoft.com/fr-ca/
+entreprise multi-medias qui créé des jeux vidéos
 
 ### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+https://www.epicgames.com/store/fr/
+entreprise multi-medias qui créé des jeux vidéos
 
 ### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+https://pokemongolive.com/fr/
+jeux qui va utiliser des moyens multi-medias.
 
 ### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien.  
+https://montvr.com/fr 
+arcade qui fait seulement du vr
 
-## Publication sur Teams
-Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
