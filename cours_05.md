@@ -2,10 +2,12 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Ma rappidité de passer au points
+Ma constance
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+Mon tone de voix
+mon talent d'orateur
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+La mienne car j'avais oublie de faire le git hub et cest seulement la minne que je me souviens
